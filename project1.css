@@ -1,0 +1,135 @@
+
+
+body{background-color: #FFFFFF;
+    
+    border-radius: 10px;
+}
+
+#tetePage{
+    
+    background-color: rgba(148, 187, 238, 0);
+    border-style: outset;
+    border-radius: 10px;
+    height: 100px;
+ }
+ #navSup{
+padding-bottom: 10px;
+
+
+ }
+ #menuBar{
+    padding-left: 50%;
+
+}
+#leftSide{
+padding-left: 50%;
+}
+
+.section1{
+width: 60%;
+align-content: center;
+margin-top:5%;
+margin-left: 10%;
+ border:2px solid black;
+border-style: solid;
+border-radius: 10px;
+border-style: outset;
+display: grid;
+flex-wrap: wrap;
+padding-left: 20%;
+clear: both;
+padding-bottom: 5%;
+
+}
+.section12{
+    padding-top: 5%;
+width: 50%;}
+.section12 a{
+    font-size: 25px;
+text-align: center;
+text-decoration-color: rgba(29, 27, 28, 0.66);}
+#bb{width: 100%;}
+
+.section121{
+    width: 60%;
+    align-content: center;
+    margin-top:5%;
+    margin-left: 10%;
+     border:2px solid black;
+    border-style: solid;
+    border-radius: 10px;
+    border-style: outset;
+    display: grid;
+    flex-wrap: wrap;
+    padding-left: 20%;
+  
+    padding-bottom: 5%;
+    
+    }
+    
+
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    background-color:#949AA5;
+    border-radius: 5px;
+    
+}
+nav li{
+    display: inline-block;
+    margin-left: 50px;
+    padding: 0px;
+    background-color: cornflowerblue;
+    border-right: 1px solid #222121;
+    border-left: 1px solid rgba(0, 204, 255, 0.66);
+    text-align: center;
+    line-height: 40px;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+    background-color: rgba(148, 187, 238, 0);
+    
+}
+nav li a{text-decoration: none;
+color:rgba(255, 255,255, 255);
+display: block;}
+nav li:hover{background-color: #12C9D6;}
+
+aside{background-color: gainsboro;
+width: 200px;
+height: 600px;
+border-radius: 20px;
+margin: 5px;
+padding: 5px;
+color:#109B1C;
+    border-style: outset;
+}
+
+.seach{width:auto;
+height: auto;
+margin-left: 100px;
+border-radius: 5px;
+padding: center;
+font-size: 20px;
+
+border: nonr;}
+
+.section12{
+    padding-left: 35%;
+}
+
+
+
+.section2{width: 260px;
+    height: 400px;
+    background-color: navajowhite;
+    margin-top: -407px;
+    margin-left: 230px;
+    border-style: 2px solid;
+    border-radius: 20px;
+       border-style: outset;
+}
